@@ -229,3 +229,109 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 https://public.simplyblk.xyz/20.40.zip|
+
+
+## C3 Season 3
+
+21.00-CL-20548557 (21.00) : [Download](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view)
+
+21.10-CL-21159871 (21.10) : [Download 1](https://public.fnbuilds.xyz/21.10.zip) [Download 2](https://drive.google.com/file/d/1DSLXOy_YQwnYTJdPjLAX_vL5TVKzusdd/view?usp=sharing)
+
+21.20-CL-21179810 (21.20) : [Download](https://drive.google.com/file/d/1V7nkhcjkiZngiHVn98n0z4GDPvOT4njv/view?usp=sharing)
+
+21.50-CL-21245791 (21.50) : [Download](https://drive.google.com/file/d/1Q2hXieSYw2_aErVaLwle4tzJ75H-OpMj/view?usp=sharing)
+
+## C3 Season 4
+
+22.20-CL-23456978 (22.20) : [Download](https://drive.google.com/file/d/1S-2QYBHAs4kk3oxyGC1QL-ZkZKOLx4Vy/view?usp=sharing)
+
+22.40-CL-23849827 (22.40) : [Download](https://drive.google.com/file/d/1oqCsB2etoHMbPQGOytHoMo0BeDi2xN8R/view?usp=sharing) [Manifest file](https://github.com/polynite/fn-releases/raw/master/manifests/yTUVvOU-BiOQgUeuLkavho8cCAt9_g.manifest) [Use Legendary to download build using Manifest](https://github.com/derrod/legendary/releases/latest)
+
+# Chapter 4
+
+## C4 Season 1
+
+23.00-CL-23344627 (23.00)	***Down***
+
+## C4 Season 2
+
+ 
+24.20-CL-23070899 (24.20) : ***Down***
+
+24.30-CL-23789416 (24.30) : [Download](https://drive.google.com/file/d/1jG0Y8Ejv7PAe4POMtOeLX9V10CRziw6R/view)
+
+## C4 Season 3
+
+Nothing for now
+
+## C4 Season 4
+
+26.30-CL-28798412 (26.30) : [Download](https://drive.google.com/file/d/10blwJvXQKq2glTCfbhzXXoqmtkhWBySZ/view?usp=sharing)
+
+## C4 Season OG
+
+27.11-CL-29739262 (27.11) : [Download](https://drive.usercontent.google.com/download?id=1_JWP1CKPtxwEPof6ps6FNwQHGO_qJrEu&export=download&authuser=0)
+
+
+```
+Android
+```
+# Android Chapter 1
+
+## Season 5
+
+5.20-CL-4268994 (5.20) : ***Down***
+
+5.21-CL-4284747 (5.21) : ***Down***
+
+5.30-CL-4312945 (5.30) : ***Down***
+
+5.40-CL-4349476 (5.40) : ***Down***
+
+5.41-CL-4363240 (5.41) : ***Down***
+
+## Playable Events
+
+v3.6 - 16.2 GB | It's raining meteors | Play using Rift
+
+v4.5 - 23,0 GB | Blast Off┃ Play using Rift but keep in mind that 4.5 has a memory leak issue.
+
+v5.30 - 26,2 GB | Cube Spawning┃ No launcher currently known to run this mini event
+
+v5.41 - 26,7 GB | Cube Sinking┃ Play using Rift
+
+v6.21 - 25,1 GB | Butterfly┃ Rift, Carbon  and Reboot can support them but it's bugged.
+
+v7.20 - 31,7 GB | Ice King┃ Play using Rift, Carbon
+
+v7.30 - 40,4 GB | Marshmello| Play using Rift, Carbon or Reboot, music will be missing
+
+v8.51 - 47,0 GB | Unvaulting┃ Play using Rift, Carbon or Reboot
+
+v9.40 / v9.41 - 55,1 GB | The Final Showdown┃ Play using Rift, Carbon or Reboot
+
+v10.40 - 60,8 GB | The End┃ Play using Rift, Carbon or Reboot (I recommand Reboot)
+
+v11.30 - 74,2 GB | Star Wars┃ Play using Rift, Carbon or Reboot
+
+v12.41 - 83,3 GB | Travis Scott┃ Play using Rift, Carbon or Reboot
+
+v12.61 - 85,1 GB | The Device┃ Play using Carbon or Rift
+
+v14.60 - 33,34 GB | The Devourer of Worlds┃ Play using Carbon or Rift
+
+v16.50 - 38,0 GB | Zero Crisis┃ Play using Carbon
+
+v17.30 - 41,3 GB | Rift Tour┃ Play using Carbon but it's bugged
+
+v17.50 - 41,7 GB | Operation: Sky Fire┃ Play using Carbon
+
+v18.40 - 43,1 GB | Chapter 2 Finale┃ Play using Carbon
+
+v20.40 - 37,9 GB | Collision / Collider Pulse┃ Play using Carbon
+
+v22.40 - 35,2 GB | Fracture - Chapter 3 Finale┃ Play using Carbon but it's bugged
+
+v27.11 - 31,1 GB | The Big Bang | Play using Carbon
+
+-- Made By Koil, Tsir: Koil And Tsir only gathered these to make the ultimate gitub builds reporsitory. We Did Not Code This!
