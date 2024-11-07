@@ -231,7 +231,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 https://public.simplyblk.xyz/20.40.zip|
 
 
-## C3 Season 3
+## C3 Season 3 - Season 21
 
 21.00-CL-20548557 (21.00) : [Download](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view)
 
@@ -241,7 +241,7 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 
 21.50-CL-21245791 (21.50) : [Download](https://drive.google.com/file/d/1Q2hXieSYw2_aErVaLwle4tzJ75H-OpMj/view?usp=sharing)
 
-## C3 Season 4
+## C3 Season 4 - Season 22
 
 22.20-CL-23456978 (22.20) : [Download](https://drive.google.com/file/d/1S-2QYBHAs4kk3oxyGC1QL-ZkZKOLx4Vy/view?usp=sharing)
 
@@ -249,22 +249,22 @@ My Discord server: https://discord.gg/D9jVGQpBf2 (Easiest way for you to contact
 
 # Chapter 4
 
-## C4 Season 1
+## C4 Season 1 - Season 23
 
 23.00-CL-23344627 (23.00)	***Down***
 
-## C4 Season 2
+## C4 Season 2 - Season 24
 
  
 24.20-CL-23070899 (24.20) : ***Down***
 
 24.30-CL-23789416 (24.30) : [Download](https://drive.google.com/file/d/1jG0Y8Ejv7PAe4POMtOeLX9V10CRziw6R/view)
 
-## C4 Season 3
+## C4 Season 3 - Season 25
 
 Nothing for now
 
-## C4 Season 4
+## C4 Season 4 - Season 26
 
 26.30-CL-28798412 (26.30) : [Download](https://drive.google.com/file/d/10blwJvXQKq2glTCfbhzXXoqmtkhWBySZ/view?usp=sharing)
 
@@ -272,23 +272,6 @@ Nothing for now
 
 27.11-CL-29739262 (27.11) : [Download](https://drive.usercontent.google.com/download?id=1_JWP1CKPtxwEPof6ps6FNwQHGO_qJrEu&export=download&authuser=0)
 
-
-```
-Android
-```
-# Android Chapter 1
-
-## Season 5
-
-5.20-CL-4268994 (5.20) : ***Down***
-
-5.21-CL-4284747 (5.21) : ***Down***
-
-5.30-CL-4312945 (5.30) : ***Down***
-
-5.40-CL-4349476 (5.40) : ***Down***
-
-5.41-CL-4363240 (5.41) : ***Down***
 
 ## Playable Events
 
