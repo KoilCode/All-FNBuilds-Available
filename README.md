@@ -225,7 +225,7 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 | 20.40-CL-N/A	                | N/A         	 | N/A           	    |	 https://public.simplyblk.xyz/20.40.zip|
 
 
-## C3 Season 3 - Season 21
+## Season 21
 
 21.00-CL-20548557 (21.00) : [Download](https://drive.google.com/file/d/18lrJ6QcMFWRSY0BbXODJFUSGccRo_dsg/view)
 
@@ -235,30 +235,29 @@ If you decide to use this for a project, you must provide credit of this GitHub 
 
 21.50-CL-21245791 (21.50) : [Download](https://drive.google.com/file/d/1Q2hXieSYw2_aErVaLwle4tzJ75H-OpMj/view?usp=sharing)
 
-## C3 Season 4 - Season 22
+## Season 22
 
 22.20-CL-23456978 (22.20) : [Download](https://drive.google.com/file/d/1S-2QYBHAs4kk3oxyGC1QL-ZkZKOLx4Vy/view?usp=sharing)
 
 22.40-CL-23849827 (22.40) : [Download](https://drive.google.com/file/d/1oqCsB2etoHMbPQGOytHoMo0BeDi2xN8R/view?usp=sharing) [Manifest file](https://github.com/polynite/fn-releases/raw/master/manifests/yTUVvOU-BiOQgUeuLkavho8cCAt9_g.manifest) [Use Legendary to download build using Manifest](https://github.com/derrod/legendary/releases/latest)
 
-# Chapter 4
 
-## C4 Season 1 - Season 23
+## Season 23
 
 23.00-CL-23344627 (23.00)	***Down***
 
-## C4 Season 2 - Season 24
+## Season 24
 
  
 24.20-CL-23070899 (24.20) : ***Down***
 
 24.30-CL-23789416 (24.30) : [Download](https://drive.google.com/file/d/1jG0Y8Ejv7PAe4POMtOeLX9V10CRziw6R/view)
 
-## C4 Season 3 - Season 25
+## Season 25
 
 Nothing for now
 
-## C4 Season 4 - Season 26
+## Season 26
 
 26.30-CL-28798412 (26.30) : [Download](https://drive.google.com/file/d/10blwJvXQKq2glTCfbhzXXoqmtkhWBySZ/view?usp=sharing)
 
